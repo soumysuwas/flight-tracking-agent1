@@ -67,9 +67,7 @@ JIRA_PROJECT_KEY=your_project_key
 
 ### 4. Run the Application
 ```
-
 python main.py
-
 ```
 #### Using an IDE (e.g., Visual Studio Code)
 1. Open the project folder in VS Code
@@ -77,7 +75,7 @@ python main.py
 3. Click the "Run" button (▶️) in the top-right corner
    or press F5 (Windows/Linux) / Cmd+F5 (macOS)
 4. Alternatively, use the integrated terminal in VS Code 
-   and execute: python main.py
+   and execute: ```python main.py```
 
 #### Using Terminal/Command Line
 
