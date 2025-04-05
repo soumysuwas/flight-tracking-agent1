@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Test Aircraft Details Display",
+        "steps": ["Step 1: Select an aircraft from the list", "Step 2: Click on the selected aircraft to view its details"],
+        "expected_result": "Aircraft details, including type, registration number, and airline livery, are correctly displayed."
+    },
+    {
+        "title": "Test Historical Flight Data Accessibility",
+        "steps": ["Step 1: Navigate to the historical flight data section for an individual aircraft", "Step 2: Select a specific time frame for analysis"],
+        "expected_result": "Historical flight data for the selected time frame is available and can be analyzed."
+    },
+    {
+        "title": "Test Accuracy of Aircraft Model and Registration",
+        "steps": ["Step 1: Choose an aircraft with known model and registration details", "Step 2: Compare displayed details with official records"],
+        "expected_result": "The displayed aircraft model and registration match the official records."
+    }
+]

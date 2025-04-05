@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Real-Time Flight Positioning Test",
+    "steps": [
+      "Open the flight tracking application on a device",
+      "Zoom in on a region with multiple flights",
+      "Observe if aircraft positions update in real-time on the map"
+    ],
+    "expected_result": "Flights' positions should update in real-time, reflecting changes in location."
+  },
+  {
+    "title": "Detailed Flight Information Test",
+    "steps": [
+      "Select a specific flight from the map",
+      "Check if the detailed flight information panel appears",
+      "Verify if displayed data includes speed, altitude, and expected arrival time"
+    ],
+    "expected_result": "Detailed flight information should be displayed correctly, including speed, altitude, and expected arrival time."
+  },
+  {
+    "title": "Real-Time Data Update Test",
+    "steps": [
+      "Choose a flight and observe its initial speed and altitude",
+      "Wait for at least 10 minutes to allow for natural changes in flight conditions",
+      "Check if speed and altitude data update to reflect real-time conditions"
+    ],
+    "expected_result": "Aircraft speed and altitude should update in real-time, reflecting changes during the flight."
+  }
+]

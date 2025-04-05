@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Notification Timing Test",
+        "steps": [
+            "Create a test scenario with a flight that is subject to status changes (e.g., delay)",
+            "Configure the application to send notifications upon such changes",
+            "Trigger the status change (e.g., delay the flight)",
+            "Verify that the notification is sent in real-time or as per the configured settings"
+        ],
+        "expected_result": "Users receive notifications promptly after flight status changes"
+    },
+    {
+        "title": "Customization and Preference Test",
+        "steps": [
+            "Set up user preferences for notifications based on specific flight numbers or airlines",
+            "Simulate a status change (delay, cancellation) for one of the specified flights",
+            "Check if notifications are only sent for the specified flights or airlines",
+            "Adjust user preferences to include or exclude additional flights/airlines and verify the change"
+        ],
+        "expected_result": "Notifications are sent based on user-defined preferences for specific flights or airlines"
+    },
+    {
+        "title": "Notification Delivery Method Test",
+        "steps": [
+            "Configure a user account to receive notifications via both push notifications and email",
+            "Trigger a flight status change (e.g., cancellation)",
+            "Verify that notifications are delivered to both the configured email address and as a push notification on the user's device",
+            "Test switching between delivery methods and confirm functionality"
+        ],
+        "expected_result": "Notifications are successfully delivered through both push notifications and email"
+    }
+]

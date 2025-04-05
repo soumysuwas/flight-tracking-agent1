@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Interactive Map Zoom and Pan",
+    "steps": ["Open the application and navigate to the interactive map page", "Zoom into a specific region using the zoom controls", "Pan across the map to different locations"],
+    "expected_result": "The map remains interactive, allows smooth zooming and panning, and retains all displayed flight paths, airport locations, weather data, and air traffic information."
+  },
+  {
+    "title": "Flight Path Visualization",
+    "steps": ["Select a flight path to display on the map", "Verify that the flight path is clearly visible and accurately represented with start and end points", "Check for any associated flight details if available"],
+    "expected_result": "The selected flight path is correctly displayed on the map with clear start and end points, and associated details are visible if applicable."
+  },
+  {
+    "title": "Weather and Air Traffic Overlay",
+    "steps": ["Ensure weather data and air traffic information are enabled on the map", "Zoom into an area with known weather data (e.g., storms, wind patterns)", "Check that air traffic data (e.g., flight routes, traffic density) is correctly overlaid"],
+    "expected_result": "Weather data and air traffic information are accurately overlaid on top of the map, providing enhanced context for flight paths and airport locations."
+  }
+]
