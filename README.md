@@ -71,6 +71,25 @@ JIRA_PROJECT_KEY=your_project_key
 python main.py
 
 ```
+####Using an IDE (e.g., Visual Studio Code)
+1. Open the project folder in VS Code
+2. Open main.py in the editor
+3. Click the "Run" button (▶️) in the top-right corner
+   or press F5 (Windows/Linux) / Cmd+F5 (macOS)
+4. Alternatively, use the integrated terminal in VS Code 
+   and execute: python main.py
+
+####Using Terminal/Command Line
+
+# Navigate to the project root directory
+cd path/to/flight-tracking-agent1
+
+# Execute the main Python script
+python main.py  # On Windows
+# OR
+python3 main.py  # On macOS/Linux if python command isn't aliased
+
+Note: Ensure your Python environment has all required dependencies installed and the .env file is properly configured before running the application.
 
 ## 🎥 Demo
 Check out the video demonstration here: https://www.youtube.com/watch?v=bW7p9Ts85dw
