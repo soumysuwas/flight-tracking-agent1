@@ -111,6 +111,4 @@ This project represents the first steps in automating the SDLC. Future enhanceme
 - CI/CD Agent: To automate testing and deployment
 - End-to-end orchestration platform for all agents
 
-## 👨‍💻 Author
-Made by Soumy Suwas
 ```
