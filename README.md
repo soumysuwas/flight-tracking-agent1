@@ -88,7 +88,7 @@ cd path/to/flight-tracking-agent1
 ```
 python main.py  # On Windows
 ```
-# OR
+#### OR
 ```
 python3 main.py  # On macOS/Linux if python command isn't aliased
 ```
