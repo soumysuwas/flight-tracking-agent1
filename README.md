@@ -18,12 +18,12 @@ pip install requests python-dotenv google-generativeai
 
 
 2. Configure environment variables in a `.env` file:
-PERPLEXITY_API_KEY=your_key
-GEMINI_API_KEY=your_key
-JIRA_EMAIL=your_email
-JIRA_API_TOKEN=your_token
-JIRA_URL=your_jira_url
-JIRA_PROJECT_KEY=your_project_key
+PERPLEXITY_API_KEY=your_key,
+GEMINI_API_KEY=your_key,
+JIRA_EMAIL=your_email,
+JIRA_API_TOKEN=your_token,
+JIRA_URL=your_jira_url,
+JIRA_PROJECT_KEY=your_project_key,
 
 
 3. Run the implementation:
