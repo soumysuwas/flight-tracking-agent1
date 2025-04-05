@@ -81,14 +81,17 @@ python main.py
 
 #### Using Terminal/Command Line
 
-# Navigate to the project root directory
+#### Navigate to the project root directory
 cd path/to/flight-tracking-agent1
 
-# Execute the main Python script
+#### Execute the main Python script
+```
 python main.py  # On Windows
+```
 # OR
+```
 python3 main.py  # On macOS/Linux if python command isn't aliased
-
+```
 Note: Ensure your Python environment has all required dependencies installed and the .env file is properly configured before running the application.
 
 ## 🎥 Demo
