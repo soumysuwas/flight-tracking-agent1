@@ -73,7 +73,7 @@ python main.py
 ```
 
 ## 🎥 Demo
-Check out the video demonstration here: [Demo Video Link]
+Check out the video demonstration here: https://www.youtube.com/watch?v=bW7p9Ts85dw
 
 ## 📊 Results
 The implementation successfully:
