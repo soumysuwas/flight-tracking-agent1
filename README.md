@@ -82,8 +82,9 @@ python main.py
 #### Using Terminal/Command Line
 
 #### Navigate to the project root directory
+```
 cd path/to/flight-tracking-agent1
-
+```
 #### Execute the main Python script
 ```
 python main.py  # On Windows
