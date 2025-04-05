@@ -4,6 +4,8 @@ import time
 from dotenv import load_dotenv
 from jira_helper import JiraHelper
 from llm_helper import query_llm
+from utils.jira_helper import JiraHelper
+from utils.llm_helper import query_llm
 
 load_dotenv()
 
