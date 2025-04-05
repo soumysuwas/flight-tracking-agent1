@@ -1,4 +1,4 @@
-# 🛫 Flight Tracking Agent
+# Flight Tracking Agent
 
 ##  Project Overview
 This project implements AI agents to automate the Software Development Lifecycle (SDLC) for a flight tracking application using Large Language Models and Jira integration.
