@@ -90,5 +90,5 @@ This project represents the first steps in automating the SDLC. Future enhanceme
 - End-to-end orchestration platform for all agents
 
 ## 👨‍💻 Author
-Made with ❤️ by [Your Name]
+Made with ❤️ by Soumy Suwas
 ```
